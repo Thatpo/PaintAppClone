@@ -5,6 +5,7 @@ The application uses the canvas api to allow for certain functions to run.
 
 
 Tools
+
 *Javascript
 *HTML
 *CSS
