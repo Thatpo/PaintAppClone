@@ -4,8 +4,7 @@ This project is built to clone some of the functionality found inside of paint a
 The application uses the canvas api to allow for certain functions to run.
 
 
-Tools
-
+# Tools
 *Javascript
 *HTML
 *CSS
